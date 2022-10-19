@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swooningfish
-- 👀 I’m interested in all thinkgs dev and tech :) 
+- 👀 I’m interested in all things dev and tech :) 
 - 🌱 I’m currently learning a flutter
 - 💞️ I’m looking to collaborate on something special
 - 📫 Reach me via twitter @gorygreg 
