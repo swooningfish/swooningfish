@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @swooningfish
 - 👀 I’m interested in all things dev and tech :) 
-- 🌱 I’m currently learning flutter & openCV
+- 🌱 I’m currently learning my intermediate amateur radio licence
 - 💞️ I’m looking to collaborate on something special
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
