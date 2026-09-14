@@ -4,6 +4,7 @@
 - 👀 I’m interested in all things dev and tech :) 
 - 🌱 I’m currently learning my intermediate amateur radio licence
 - 💞️ I’m looking to collaborate on something special
+- ☕ If you'd like to support my work, you can [buy me a coffee](https://buymeacoffee.com/swooningfish)
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
@@ -43,6 +44,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Apache-C71A36?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache" /></a>
 </p>
 
+## Support
+
+<p align="center">
+  <a href="https://buymeacoffee.com/swooningfish"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" /></a>
+</p>
 
 <!---
 swooningfish/swooningfish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
